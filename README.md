@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beshoymarkelmallah&label=Profile%20views&color=0e75b6&style=plastic" alt="beshoymarkelmallah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beshoymarkelmallah" alt="beshoymarkelmallah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beshoymarkelmallah&theme=onedark" alt="beshoymarkelmallah" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Deep Learning**
 
